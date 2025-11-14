@@ -52,5 +52,14 @@
     "workHours": 9,
     "hourlyWage": 10030,
     "id": "1762941663958"
+  },
+  {
+    "date": "2025-11-05",
+    "name": "최동현",
+    "clockIn": "09:00",
+    "clockOut": "18:00",
+    "workHours": 9,
+    "hourlyWage": 10030,
+    "id": "1763115152397"
   }
 ]
