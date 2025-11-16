@@ -61,5 +61,14 @@
     "workHours": 8,
     "hourlyWage": 10030,
     "id": "1763289433313"
+  },
+  {
+    "date": "2025-11-01",
+    "name": "장혁진",
+    "clockIn": "11:00",
+    "clockOut": "16:00",
+    "workHours": 5,
+    "hourlyWage": 10030,
+    "id": "1763289455572"
   }
 ]
