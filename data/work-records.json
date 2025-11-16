@@ -52,5 +52,14 @@
     "workHours": 9,
     "hourlyWage": 10030,
     "id": "1763115152397"
+  },
+  {
+    "date": "2025-11-01",
+    "name": "장지해",
+    "clockIn": "11:00",
+    "clockOut": "19:00",
+    "workHours": 8,
+    "hourlyWage": 10030,
+    "id": "1763289433313"
   }
 ]
