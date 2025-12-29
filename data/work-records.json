@@ -15,15 +15,6 @@
     "clockOut": "23:00",
     "workHours": 4,
     "hourlyWage": 10030,
-    "id": "1766989123508"
-  },
-  {
-    "date": "2025-12-31",
-    "name": "이유민",
-    "clockIn": "19:00",
-    "clockOut": "23:00",
-    "workHours": 4,
-    "hourlyWage": 10030,
     "id": "1766998704311"
   },
   {
